@@ -91,3 +91,5 @@ This is not just theory — it is a living principle already proving itself in d
 ---
 
 ### ⭐ If this project resonates with you, star the repo and follow the journey.
+Conceptual framework was developed by Christopher Ray Hodge 
+in conjuction with Symmetry Earth Labs.
